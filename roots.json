@@ -1,1 +1,10 @@
-[{name: "Carolina Region", rootURL: "http://crna.org/main_server/" },{ name: "North Carolina Region", rootURL: "http://bmlt.ncregion-na.org/main_server/"}]
+[
+  {
+    "name": "Carolina Region", 
+    "rootURL": "http://crna.org/main_server/" 
+  },
+  { 
+    "name": "North Carolina Region", 
+    "rootURL": "http://bmlt.ncregion-na.org/main_server/"
+  }
+]
